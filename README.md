@@ -26,12 +26,13 @@ npm run dev
 ```
 *(this setup is assuming your running a linux based distro and have git pre-installed)*
 
-  ‎ ‎ 
+‎ 
 
 **Happy Coding!**
 
 Sy & Nate from RBC Technology.
 
 ###### © comingsoon 2025 by Roblox Broadcasting Corporation is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://github.com/rbctelevision/comingsoon/blob/main/LICENSE.md
+
 
 
