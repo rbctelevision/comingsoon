@@ -1,6 +1,6 @@
 # RBC Coming Soon Website
 
-A coming soon page designed for RBC, hosted at [https://https://rbctelevision.org](https://rbctelevision.org).
+A coming soon page designed for RBC new website, hosted at [https://https://rbctelevision.org](https://rbctelevision.org).
 
 ## Live Demo
 
@@ -33,6 +33,7 @@ npm run dev
 Sy & Nate from RBC Technology.
 
 ###### © comingsoon 2025 by Roblox Broadcasting Corporation is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://github.com/rbctelevision/comingsoon/blob/main/LICENSE.md
+
 
 
 
