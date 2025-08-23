@@ -13,10 +13,10 @@ To make your own version of this Coming Soon Website:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/rbctelevision/comingsoon.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd comingsoon
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -24,11 +24,13 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+*(this setup is assuming your running a linux based distro)*
 
- 
+  ‎ ‎ 
 
 **Happy Coding!**
 
 Sy & Nate from RBC Technology.
 
 ###### © comingsoon 2025 by Roblox Broadcasting Corporation is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://github.com/rbctelevision/comingsoon/blob/main/LICENSE.md
+
