@@ -61,7 +61,7 @@ const Index = () => {
             {/* Coming Soon Message */}
             <div className="mb-12">
               <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold text-foreground mb-4">
-                Our Vision is Coming Soon
+                Our Vision is Coming
               </h2>
               <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
                 We're preparing to launch a revolutionary broadcasting experience that will inspire, 
