@@ -121,7 +121,7 @@ const Index = () => {
             </h4>
           </div>
           <p className="text-muted-foreground mb-4">
-            © 2024 RBC Television. All rights reserved.
+            © 2025 RBC Television. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
             Stay connected. Stay inspired. Coming soon.
