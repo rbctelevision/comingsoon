@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/(.*)", "destination": "https://rbctelevision.org", "permanent": true }
+    { "source": "/(.*)", "destination": "https://www.rbctelevision.org", "permanent": true }
   ]
 }
