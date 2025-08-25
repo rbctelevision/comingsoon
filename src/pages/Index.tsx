@@ -15,8 +15,8 @@ const Index = () => {
     },
     {
       icon: Radio,
-      title: "Multi-Platform",
-      description: "Reach audiences across television, radio, and digital platforms"
+      title: "Latest News",
+      description: "Bringing you the latest Roblox News in professional broadcasts"
     },
     {
       icon: Users,
