@@ -5,7 +5,7 @@ const heroImage = "/lovable-uploads/7a313ac6-630a-49cd-a28e-890fe28becbd.png";
 
 const Index = () => {
   // Set launch date to August 29th, 2025
-  const launchDate = new Date('2025-08-29T20:00:00');
+  const launchDate = new Date('2025-08-29T20:00:00Z');
 
   const features = [
     {
